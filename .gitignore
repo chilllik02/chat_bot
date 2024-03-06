@@ -6,36 +6,19 @@ import telebot
 
 def create_keyfile_dict():
     variables_keys = {
-        "type": "service_account",
-        "project_id": "botnails-416411",
-        "private_key_id": "29c5fb98de0e2c80c1abc22211d1e5643a1f9389",
-        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0pfMoTFvYr4Ti\n"
-                       "ECLAcTFK0E9Ggb+dEQoAU7LpOX6oVvj2QsCP2G1T4p+gxtccRF/aT7RiwTYfnl5X\n8tzCzoHH2Lekqm6IxuwgrycIomVS5"
-                       "T3dSnq3bPkcwPIwNcB28E/gGEPhIljJUvpp\nCmLlOXc4KS/WZUhh4M1LVNCxxUyprrEkgj3Q6IkCS6+XaNxvl6mqUJj7Mg"
-                       "nUBZI6\nPeT914OchW3LIVZvrYvxK725qRU0qHuqWKrzQRkJvsJuzdSlYEOg5T+DBic+ObvY\nJ2GK57463o12TnoahS0s5"
-                       "BmzIl412gIQKMr2HCLNQjp31KBJovPVE+a82crDgAfD\nio3Xi/YtAgMBAAECggEAAapo0wT9vIc024MeN4cqon6ND9va3v"
-                       "uZUH7+61hfAsfW\nnlfnr2bvfp354vnalkSs3x8Wm/boxfNZVhCSg43wKCZR5M6Di3oIOpKP/8FUtFq8\n0QKJIVbD0Ac2s"
-                       "tNA+k+RtZcU6v4E04IWSG/D86zEqfQ8ZRFmKVRdYxluQkO5Rto2\nox6GDycK+mUN1ZGu5g+bB7k2DpK05bpiIP47MDphXz"
-                       "qy/WnXvJshCKlg0K+oEBN2\nlN4FaVw7eHHXCjEryIWEh1oI0TGt7BFoVM08PEBkC4ScGsAJgVdgwozuKeBaTSAQ\n3n9+3"
-                       "hZdRGPbgYIu47Y9SB1NLKUjVteTR/ISvmJL3QKBgQDgVNz5vp3MynQOiGMo\n9cIhTHleuO9T9YLPqUwtEgLLDnc5oPAmZh"
-                       "KniQ+bH2Zh+yok7VOxMWgb6Lu80WL6\nPlsYqAddIaampQ7ugNDL6/3fhueEaoNf2P+WWIiNA4N+e0sWXOpGvXjMaeV3kJt"
-                       "L\nRTFD4G9yyAK8LbBSfGhaf3FlOwKBgQDOJmnWOW4lfMCOwHj2RSSeGsJo9jw+TfZN\nKoqkVjqFctYMfXtWbnpnDbMIV4"
-                       "9B/HYpweFkFQhVsA+Rxd4So2MCvOfDUGxhMVq7\nlwDO44dAsKrzSawUS4K408sqNgtcJ0SnuMgfKHaNepldWzHoQC1wpnp"
-                       "CcgTqNCjn\nSTtp/vg7twKBgAMrb8vfk583JRineK81eb66s+RQvKD1ERoaDEd+v6da1vhre7kv\nLAhN+Xh5oxqzT88hw1"
-                       "L3nb73NN/gHYPnqaXZifEY7p/gKSvZihm3hejIoTDPyHds\nO4BGU/eaGxuIZnE0cuL4/mH1BRcBZhBUM/P/kdOPW+qIwrs"
-                       "HovnUXyfNAoGAGJhW\nqjth29EdfCqUg/VN4BsbNMCkAV710tEPh3nOM5u20/ionXBC5EarJISlz96aDnNW\nO8WSn/6IbQ"
-                       "DpdNnPd0UodZIDzDjCNX1XmFdnDJ3HV41jnWxA5WJHa/rUsiLxOv19\nytHeCxUkdRHrS2VUxormLUVDNtoQQz/mecf0v9M"
-                       "CgYEAzTZtbCLMk7GIGkaGDrOt\n3RbttD6V0Jbs75UPfeMFS2/wMgZFI/by4jGcunf06sUr9WiaKsvlutk+/zIu7M1C\nYn"
-                       "sGwwzWkqoNTQZVTh+0BKloNlS0sW40R+wpVPvVXEBndboC2opdBTrCHCcLDZjb\nlY7bAXS08kHoCIeUnqiSriw=\n--"
+        "type": "you",
+        "project_id": "you",
+        "private_key_id": "you",
+        "private_key": "-----BEGIN PRIVATE KEY-----\you
                        "---END PRIVATE KEY-----\n",
-        "client_email": "nailsbot-567@botnails-416411.iam.gserviceaccount.com",
-        "client_id": "113445500446136125190",
-        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-        "token_uri": "https://oauth2.googleapis.com/token",
-        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nailsbot-567%40botnails-416411.iam.g"
-                                "serviceaccount.com",
-        "universe_domain": "googleapis.com"
+        "client_email": "you",
+        "client_id": "you"
+        "auth_uri": "you",
+        "token_uri": "you",
+        "auth_provider_x509_cert_url": "you",
+        "client_x509_cert_url": "you"
+                                "you",
+        "universe_domain": "you"
     }
     return variables_keys
 
@@ -47,10 +30,10 @@ creds = ServiceAccountCredentials.from_json_keyfile_dict(create_keyfile_dict(), 
 client = gspread.authorize(creds)
 
 # Открываем Google Таблицу
-spreadsheet = client.open('Nailsbot')
+spreadsheet = client.open('You sheets')
 worksheet = spreadsheet.sheet1
 
-bot = telebot.TeleBot('7028121053:AAG-SMb4hWueFCUafij1ZPvI22gmK64iY6Q')
+bot = telebot.TeleBot('you tokin')
 bot.set_webhook()
 
 
